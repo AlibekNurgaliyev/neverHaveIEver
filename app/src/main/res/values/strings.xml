@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Diablo</string>
+    <string name="hl1">Я никогда не прыгал с парашютом.</string>
+    <string name="hl2">Я никогда не пел пьяным в караоке.</string>
+    <string name="hl3">Я никогда не попадал под арест или штраф гаишников.</string>
+    <string name="hl4">Я никогда не влюблялся в своего друга противоположного пола</string>
+    <string name="hl5">Я никогда не врал о своем весе.</string>
+    <string name="hl6">Я никогда не целовался с незнакомым человеком</string>
+    <string name="hl7">Я никогда не был влюблен безответно.</string>
+    <string name="hl8">Я никогда не терял деньги или телефон.</string>
+    <string name="hl9">Я никогда не носил брекеты.</string>
+    <string name="hl10">Я никогда не пропускал учебу или работу из-за похмелья.</string>
+    <string name="hl11">Я никогда не рассказывал чужих секретов.</string>
+</resources>
